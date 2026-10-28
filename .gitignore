@@ -1,0 +1,13 @@
+
+# Base de données contenant les données des personnes
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+
+# Configuration locale
+.env
